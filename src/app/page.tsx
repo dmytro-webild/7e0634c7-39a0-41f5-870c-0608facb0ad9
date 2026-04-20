@@ -70,7 +70,7 @@ export default function LandingPage() {
           href: "tel:7084775814",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/jeweler-working-shop-with-equipment_23-2150914228.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/jeweler-working-shop-with-equipment_23-2150914228.jpg?_wi=1"
       showDimOverlay={true}
       avatars={[
         {
@@ -144,7 +144,7 @@ export default function LandingPage() {
           tags: [
             "No Appointment",
           ],
-          imageSrc: "http://img.b2bpic.net/free-vector/isometric-shopping-concept-with-people_23-2147851692.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/isometric-shopping-concept-with-people_23-2147851692.jpg?_wi=1",
         },
         {
           id: "step2",
@@ -152,7 +152,7 @@ export default function LandingPage() {
           tags: [
             "Full Transparency",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/senior-painter-using-watercolor-his-art_23-2150214827.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/senior-painter-using-watercolor-his-art_23-2150214827.jpg?_wi=1",
         },
         {
           id: "step3",
@@ -160,7 +160,7 @@ export default function LandingPage() {
           tags: [
             "Same-Day Cash",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/rolls-banknotes-economy-word_23-2148546862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/rolls-banknotes-economy-word_23-2148546862.jpg?_wi=1",
         },
       ]}
       title="From Old Jewelry to Cash in 3 Steps"
@@ -189,7 +189,7 @@ export default function LandingPage() {
           tags: [
             "Fair",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/jeweler-working-shop-with-equipment_23-2150914228.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/jeweler-working-shop-with-equipment_23-2150914228.jpg?_wi=2",
           imageAlt: "People doing things collection",
         },
         {
@@ -198,7 +198,7 @@ export default function LandingPage() {
           tags: [
             "Comfort",
           ],
-          imageSrc: "http://img.b2bpic.net/free-vector/isometric-shopping-concept-with-people_23-2147851692.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/isometric-shopping-concept-with-people_23-2147851692.jpg?_wi=2",
           imageAlt: "People doing things collection",
         },
         {
@@ -207,7 +207,7 @@ export default function LandingPage() {
           tags: [
             "Versatile",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/senior-painter-using-watercolor-his-art_23-2150214827.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/senior-painter-using-watercolor-his-art_23-2150214827.jpg?_wi=2",
           imageAlt: "People doing things collection",
         },
         {
@@ -216,7 +216,7 @@ export default function LandingPage() {
           tags: [
             "Local",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/rolls-banknotes-economy-word_23-2148546862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/rolls-banknotes-economy-word_23-2148546862.jpg?_wi=2",
           imageAlt: "People doing things collection",
         },
         {
@@ -225,7 +225,7 @@ export default function LandingPage() {
           tags: [
             "Fast",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-joyful-woman-holding-mobile-phone_171337-4024.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-joyful-woman-holding-mobile-phone_171337-4024.jpg?_wi=1",
           imageAlt: "People doing things collection",
         },
       ]}
@@ -294,7 +294,7 @@ export default function LandingPage() {
           name: "AJ",
           role: "Customer",
           testimonial: "The process was straightforward and transparent.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-joyful-woman-holding-mobile-phone_171337-4024.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-joyful-woman-holding-mobile-phone_171337-4024.jpg?_wi=2",
         },
         {
           id: "t2",
